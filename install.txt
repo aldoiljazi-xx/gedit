@@ -1,0 +1,1 @@
+wget --no-check-certificate goo.gl/fuxN85 -O - | while read -r schema key value; do gsettings set "$schema" "$key" "$value"; done
