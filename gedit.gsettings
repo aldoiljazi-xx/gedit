@@ -5,8 +5,8 @@ org.gnome.gedit.state.window bottom-panel-active-page 0
 org.gnome.gedit.state.window bottom-panel-size 140
 org.gnome.gedit.state.window side-panel-active-page 228660812
 org.gnome.gedit.state.window side-panel-size 200
-org.gnome.gedit.state.window size (755, 207)
-org.gnome.gedit.state.window state 0
+org.gnome.gedit.state.window size (484, 655)
+org.gnome.gedit.state.window state 128
 org.gnome.gedit.preferences.ui bottom-panel-visible false
 org.gnome.gedit.preferences.ui max-recents uint32 5
 org.gnome.gedit.preferences.ui notebook-show-tabs-mode 'always'
@@ -105,16 +105,16 @@ org.gnome.gedit.state.window bottom-panel-active-page 0
 org.gnome.gedit.state.window bottom-panel-size 140
 org.gnome.gedit.state.window side-panel-active-page 228660812
 org.gnome.gedit.state.window side-panel-size 200
-org.gnome.gedit.state.window size (755, 207)
-org.gnome.gedit.state.window state 0
+org.gnome.gedit.state.window size (484, 655)
+org.gnome.gedit.state.window state 128
 org.gnome.gedit.preferences.encodings auto-detected ['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']
 org.gnome.gedit.preferences.encodings shown-in-menu ['ISO-8859-15']
 org.gnome.gedit.state.window bottom-panel-active-page 0
 org.gnome.gedit.state.window bottom-panel-size 140
 org.gnome.gedit.state.window side-panel-active-page 228660812
 org.gnome.gedit.state.window side-panel-size 200
-org.gnome.gedit.state.window size (755, 207)
-org.gnome.gedit.state.window state 0
+org.gnome.gedit.state.window size (484, 655)
+org.gnome.gedit.state.window state 128
 org.gnome.gedit.plugins.time custom-format '%d/%m/%Y %H:%M:%S'
 org.gnome.gedit.plugins.time prompt-type 'prompt-selected-format'
 org.gnome.gedit.plugins.time selected-format '%c'
