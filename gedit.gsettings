@@ -5,7 +5,7 @@ org.gnome.gedit.state.window bottom-panel-active-page 0
 org.gnome.gedit.state.window bottom-panel-size 140
 org.gnome.gedit.state.window side-panel-active-page 228660812
 org.gnome.gedit.state.window side-panel-size 200
-org.gnome.gedit.state.window size (945, 638)
+org.gnome.gedit.state.window size (1074, 473)
 org.gnome.gedit.state.window state 128
 org.gnome.gedit.preferences.ui bottom-panel-visible false
 org.gnome.gedit.preferences.ui max-recents uint32 5
@@ -36,30 +36,30 @@ org.gnome.gedit.preferences.editor smart-home-end 'after'
 org.gnome.gedit.preferences.editor syntax-highlighting true
 org.gnome.gedit.preferences.editor tabs-size uint32 8
 org.gnome.gedit.preferences.editor undo-actions-limit 25
-org.gnome.gedit.preferences.editor use-default-font true
+org.gnome.gedit.preferences.editor use-default-font false
 org.gnome.gedit.preferences.editor wrap-mode 'none'
 org.gnome.gedit.preferences.encodings auto-detected ['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']
 org.gnome.gedit.preferences.encodings shown-in-menu ['ISO-8859-15']
-org.gnome.gedit.preferences.print print-font-body-pango 'Monospace 9'
-org.gnome.gedit.preferences.print print-font-header-pango 'Sans 11'
-org.gnome.gedit.preferences.print print-font-numbers-pango 'Sans 8'
-org.gnome.gedit.preferences.print print-header true
+org.gnome.gedit.preferences.print print-font-body-pango 'Ubuntu Mono 11'
+org.gnome.gedit.preferences.print print-font-header-pango 'Ubuntu Mono 11'
+org.gnome.gedit.preferences.print print-font-numbers-pango 'Ubuntu Mono 11'
+org.gnome.gedit.preferences.print print-header false
 org.gnome.gedit.preferences.print print-line-numbers uint32 0
 org.gnome.gedit.preferences.print print-syntax-highlighting true
-org.gnome.gedit.preferences.print print-wrap-mode 'word'
+org.gnome.gedit.preferences.print print-wrap-mode 'none'
 org.gnome.gedit.preferences.ui bottom-panel-visible false
 org.gnome.gedit.preferences.ui max-recents uint32 5
 org.gnome.gedit.preferences.ui notebook-show-tabs-mode 'always'
 org.gnome.gedit.preferences.ui side-panel-visible false
 org.gnome.gedit.preferences.ui statusbar-visible false
 org.gnome.gedit.preferences.ui toolbar-visible false
-org.gnome.gedit.preferences.print print-font-body-pango 'Monospace 9'
-org.gnome.gedit.preferences.print print-font-header-pango 'Sans 11'
-org.gnome.gedit.preferences.print print-font-numbers-pango 'Sans 8'
-org.gnome.gedit.preferences.print print-header true
+org.gnome.gedit.preferences.print print-font-body-pango 'Ubuntu Mono 11'
+org.gnome.gedit.preferences.print print-font-header-pango 'Ubuntu Mono 11'
+org.gnome.gedit.preferences.print print-font-numbers-pango 'Ubuntu Mono 11'
+org.gnome.gedit.preferences.print print-header false
 org.gnome.gedit.preferences.print print-line-numbers uint32 0
 org.gnome.gedit.preferences.print print-syntax-highlighting true
-org.gnome.gedit.preferences.print print-wrap-mode 'word'
+org.gnome.gedit.preferences.print print-wrap-mode 'none'
 org.gnome.gedit.plugins active-plugins ['changecase']
 org.gnome.gedit.preferences.editor auto-indent true
 org.gnome.gedit.preferences.editor auto-save false
@@ -81,17 +81,17 @@ org.gnome.gedit.preferences.editor smart-home-end 'after'
 org.gnome.gedit.preferences.editor syntax-highlighting true
 org.gnome.gedit.preferences.editor tabs-size uint32 8
 org.gnome.gedit.preferences.editor undo-actions-limit 25
-org.gnome.gedit.preferences.editor use-default-font true
+org.gnome.gedit.preferences.editor use-default-font false
 org.gnome.gedit.preferences.editor wrap-mode 'none'
 org.gnome.gedit.preferences.encodings auto-detected ['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']
 org.gnome.gedit.preferences.encodings shown-in-menu ['ISO-8859-15']
-org.gnome.gedit.preferences.print print-font-body-pango 'Monospace 9'
-org.gnome.gedit.preferences.print print-font-header-pango 'Sans 11'
-org.gnome.gedit.preferences.print print-font-numbers-pango 'Sans 8'
-org.gnome.gedit.preferences.print print-header true
+org.gnome.gedit.preferences.print print-font-body-pango 'Ubuntu Mono 11'
+org.gnome.gedit.preferences.print print-font-header-pango 'Ubuntu Mono 11'
+org.gnome.gedit.preferences.print print-font-numbers-pango 'Ubuntu Mono 11'
+org.gnome.gedit.preferences.print print-header false
 org.gnome.gedit.preferences.print print-line-numbers uint32 0
 org.gnome.gedit.preferences.print print-syntax-highlighting true
-org.gnome.gedit.preferences.print print-wrap-mode 'word'
+org.gnome.gedit.preferences.print print-wrap-mode 'none'
 org.gnome.gedit.preferences.ui bottom-panel-visible false
 org.gnome.gedit.preferences.ui max-recents uint32 5
 org.gnome.gedit.preferences.ui notebook-show-tabs-mode 'always'
@@ -105,7 +105,7 @@ org.gnome.gedit.state.window bottom-panel-active-page 0
 org.gnome.gedit.state.window bottom-panel-size 140
 org.gnome.gedit.state.window side-panel-active-page 228660812
 org.gnome.gedit.state.window side-panel-size 200
-org.gnome.gedit.state.window size (945, 638)
+org.gnome.gedit.state.window size (1074, 473)
 org.gnome.gedit.state.window state 128
 org.gnome.gedit.preferences.encodings auto-detected ['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']
 org.gnome.gedit.preferences.encodings shown-in-menu ['ISO-8859-15']
@@ -113,7 +113,7 @@ org.gnome.gedit.state.window bottom-panel-active-page 0
 org.gnome.gedit.state.window bottom-panel-size 140
 org.gnome.gedit.state.window side-panel-active-page 228660812
 org.gnome.gedit.state.window side-panel-size 200
-org.gnome.gedit.state.window size (945, 638)
+org.gnome.gedit.state.window size (1074, 473)
 org.gnome.gedit.state.window state 128
 org.gnome.gedit.plugins.time custom-format '%d/%m/%Y %H:%M:%S'
 org.gnome.gedit.plugins.time prompt-type 'prompt-selected-format'
@@ -148,7 +148,7 @@ org.gnome.gedit.preferences.editor smart-home-end 'after'
 org.gnome.gedit.preferences.editor syntax-highlighting true
 org.gnome.gedit.preferences.editor tabs-size uint32 8
 org.gnome.gedit.preferences.editor undo-actions-limit 25
-org.gnome.gedit.preferences.editor use-default-font true
+org.gnome.gedit.preferences.editor use-default-font false
 org.gnome.gedit.preferences.editor wrap-mode 'none'
 org.gnome.gedit.state.file-filter filter-id 0
 org.gnome.gedit.plugins.pythonconsole command-color '#314e6c'
