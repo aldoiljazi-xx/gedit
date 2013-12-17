@@ -5,7 +5,7 @@ org.gnome.gedit.state.window bottom-panel-active-page 0
 org.gnome.gedit.state.window bottom-panel-size 140
 org.gnome.gedit.state.window side-panel-active-page 228660812
 org.gnome.gedit.state.window side-panel-size 200
-org.gnome.gedit.state.window size (1074, 473)
+org.gnome.gedit.state.window size (821, 337)
 org.gnome.gedit.state.window state 128
 org.gnome.gedit.preferences.ui bottom-panel-visible false
 org.gnome.gedit.preferences.ui max-recents uint32 5
